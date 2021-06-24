@@ -2,7 +2,8 @@ body {
   font-family: sans-serif;
   font-size: 20px;
 }
-.quem-somos {
+.quem-somos,
+.services {
   background-color: lightgrey;
 }
 
