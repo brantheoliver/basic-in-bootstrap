@@ -1,3 +1,12 @@
-.quem-somos{
+body {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+.quem-somos {
   background-color: lightgrey;
+}
+
+img {
+  width: 400px;
+  height: 400px;
 }
